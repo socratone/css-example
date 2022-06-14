@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  background: whitesmoke;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: gainsboro;
+}
+
+.parent {
+  width: 400px;
+  height: 100px;
+  overflow-x: auto;
+}
+
+.child {
+  width: 200%;
+  height: 100%;
+  background: linear-gradient(90deg, tomato 0%, gold 100%);
+}
+ 
+
