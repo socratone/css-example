@@ -19,3 +19,7 @@ can i use를 볼 때 아직 사용하기는 이른 것 같다.
 
 스크롤이 필요한 캐러셀에 사용한다.\
 일반적으로는 transform을 써야한다.
+
+## 글자가 점점점이 될 때를 자바스크립트로 아는 방법 (Text Ellipsis Detection)
+
+element의 offsetWidth와 scrollWidth를 비교해서 구한다.
