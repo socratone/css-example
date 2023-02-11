@@ -23,3 +23,5 @@ can i use를 볼 때 아직 사용하기는 이른 것 같다.
 ## 글자가 점점점이 될 때를 자바스크립트로 아는 방법 (Text Ellipsis Detection)
 
 element의 offsetWidth와 scrollWidth를 비교해서 구한다.
+
+## Intersection Observer를 이용한 스크롤 이벤트 (Intersection Observer Scroll Event)
