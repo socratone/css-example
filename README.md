@@ -25,3 +25,5 @@ can i use를 볼 때 아직 사용하기는 이른 것 같다.
 element의 offsetWidth와 scrollWidth를 비교해서 구한다.
 
 ## Intersection Observer를 이용한 스크롤 이벤트 (Intersection Observer Scroll Event)
+
+## Flex Item에 Ellipsis를 넣는 방법 (Flex Item Ellipsis)
